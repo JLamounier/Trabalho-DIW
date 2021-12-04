@@ -1,0 +1,65 @@
+.barra {
+    background-color: #013569;
+}
+
+.logo p{
+    display:inline;
+    position: absolute;
+    vertical-align: middle;
+    font-size: 30px;
+    margin: 5px;
+}
+
+#colunaInfo {
+    text-align: center;
+    text-decoration: none;
+    color: #0d0e0f;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#colunaInfo a {
+    text-decoration: underline #0d0e0f;
+}
+
+#colunaInfo p {
+    color: #0d0e0f;
+    font-size: 30px;
+    margin: 0px;
+}
+
+#colunaInfo h1 {
+    font-size: 23px;
+}
+
+#colunaRepositorio {
+    color: #000000;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#colunaRepositorio h1{
+    font-size: 35px;
+}
+
+#colunaRepositorio h2{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+}
+
+#colunaRepositorio a{
+    text-decoration: underline rgb(0, 0, 0);
+}
+
+#colunaRepositorio p{
+    margin-bottom: 0px;
+}
+
+
+#foto {
+    border-radius: 50%;  
+}
+
+#botaoPesquisa{
+    background-color: rgb(#a79898);
+}
